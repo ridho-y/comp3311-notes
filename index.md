@@ -8,8 +8,10 @@
 layout: home
 ---
 
-[Data Modelling](https://ridho-y.github.io/comp3311/data_modelling.html)
+[Data Modelling](https://ridho-y.github.io/comp3311-notes/data_modelling.html)
 
-[SQL](https://ridho-y.github.io/comp3311/sql_programming.html)
+[SQL](https://ridho-y.github.io/comp3311-notes/sql_programming.html)
 
-[PostgreSQL and PL/pgSQL](https://ridho-y.github.io/comp3311/postgresql.html)
+[PostgreSQL and PL/pgSQL](https://ridho-y.github.io/comp3311-notes/postgresql.html)
+
+[Psycopg2](https://ridho-y.github.io/comp3311-notes/psycopg2.html)
